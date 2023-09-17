@@ -1,52 +1,64 @@
-OplusJ STORE
+<h1>OplusJ STORE</h1>
 
-Bem-vindo ao repositório GitHub da OplusJ STORE! Este repositório contém o código-fonte de uma página da web de uma loja online simples. Abaixo, você encontrará informações sobre como o código está estruturado e o que cada seção faz.
-Índice
+<p>Bem-vindo ao repositório GitHub da OplusJ STORE! Este repositório contém o código-fonte de uma página da web de uma loja online simples. Abaixo, você encontrará informações sobre como o código está estruturado e o que cada seção faz.</p>
 
-    Descrição
-    Uso
-    Contribuições
-    Licença
+<h2>Índice</h2>
 
-Descrição
+<ul>
+        <li><a href="#descricao">Descrição</a></li>
+        <li><a href="#uso">Uso</a></li>
+        <li><a href="#licenca">Licença</a></li>
+    </ul>
 
-A OplusJ STORE é uma página da web de uma loja online básica construída usando HTML e CSS. Ela apresenta uma variedade de produtos, cada um composto por uma imagem, nome do produto e informações de preços. A página da web está estruturada da seguinte forma:
+<h2 id="descricao">Descrição</h2>
 
-    Cabeçalho: A seção do cabeçalho contém um logotipo e um menu de navegação com links para "Inicio", "Catálogo", "Sobre" e "Cadastro".
+<p>A OplusJ STORE é uma página da web de uma loja online básica construída usando HTML e CSS. Ela apresenta uma variedade de produtos, cada um composto por uma imagem, nome do produto e informações de preços. A página da web está estruturada da seguinte forma:</p>
 
-    Catálogo de Produtos: A seção principal da página exibe um catálogo de produtos. Cada produto inclui:
-        Uma imagem do produto.
-        Uma descrição do produto.
-        Informações de preços, incluindo o preço total e detalhes de parcelamento.
+<h3>Cabeçalho</h3>
 
-Uso
+<p>A seção do cabeçalho contém um logotipo e um menu de navegação com links para "Inicio", "Catálogo", "Sobre" e "Cadastro".</p>
 
-Você pode usar este código como ponto de partida para criar sua própria loja online ou site de comércio eletrônico. Aqui estão os passos para começar:
+<h3>Catálogo de Produtos</h3>
 
-    Clone este repositório em sua máquina local usando o seguinte comando:
+<p>A seção principal da página exibe um catálogo de produtos. Cada produto inclui:</p>
 
-    shell
+<ul>
+        <li>Uma imagem do produto.</li>
+        <li>Uma descrição do produto.</li>
+        <li>Informações de preços, incluindo o preço total e detalhes de parcelamento.</li>
+    </ul>
 
-    git clone https://github.com/seu-nome-de-usuário/nome-do-seu-repo.git
+<h2 id="uso">Uso</h2>
 
-    Personalize o conteúdo:
-        Substitua as imagens dos produtos na pasta contents pelas suas próprias imagens de produtos.
-        Modifique as descrições dos produtos e informações de preços para corresponder aos seus produtos.
+<p>Você pode usar este código como ponto de partida para criar sua própria loja online ou site de comércio eletrônico. Aqui estão os passos para começar:</p>
 
-    Estilize a página da web:
-        Personalize o CSS no arquivo style.css para combinar com sua identidade visual e preferências de design.
+<ol>
+        <li>Clone este repositório em sua máquina local usando o seguinte comando:</li>
 
-    Teste a página da web:
-        Abra o arquivo index.html em um navegador da web para visualizar sua loja online.
+<pre><code>git clone https://github.com/seu-nome-de-usuário/nome-do-seu-repo.git</code></pre>
 
-    Implante a página da web:
-        Hospede a página da web em um servidor da web ou use um serviço de hospedagem para torná-la acessível ao público.
+<li>Personalize o conteúdo:</li>
 
-Contribuições
+<ul>
+            <li>Substitua as imagens dos produtos na pasta contents pelas suas próprias imagens de produtos.</li>
+            <li>Modifique as descrições dos produtos e informações de preços para corresponder aos seus produtos.</li>
+        </ul>
 
-Contribuições para melhorar este código ou corrigir quaisquer problemas são bem-vindas! Se você tiver sugestões ou melhorias, abra uma issue ou envie um pull request.
-Licença
+<li>Estilize a página da web:</li>
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
+<ul>
+            <li>Personalize o CSS no arquivo style.css para combinar com sua identidade visual e preferências de design.</li>
+        </ul>
 
-Obrigado por conferir o repositório da OplusJ STORE. Divirta-se construindo sua loja online! Se você tiver alguma dúvida ou precisar de assistência, sinta-se à vontade para entrar em contato.
+<li>Teste a página da web:</li>
+
+<p>Abra o arquivo index.html em um navegador da web para visualizar sua loja online.</p>
+
+<li>Implante a página da web:</li>
+
+<p>Hospede a página da web em um servidor da web ou use um serviço de hospedagem para torná-la acessível ao público.</p>
+    </ol>
+
+<h2 id="licenca">Licença</h2>
+
+<p>Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.</p>
